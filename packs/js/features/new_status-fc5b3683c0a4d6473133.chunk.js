@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksoapbox=self.webpackChunksoapbox||[]).push([[63],{1279:function(u,e,n){n.r(e);var t=n(2063),f=n(1),o=n(2056),s=n(2074),a=n(3);e.default=function(){var u=(0,a.TL)();return(0,f.useEffect)((function(){u((0,s.h7)("COMPOSE"))}),[]),(0,t.Z)(o.l_,{to:"/"})}}}]);
+//# sourceMappingURL=new_status-fc5b3683c0a4d6473133.chunk.js.map

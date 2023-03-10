@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksoapbox=self.webpackChunksoapbox||[]).push([[49],{1228:function(u,e,n){n.r(e);var s=n(2063),a=n(164);e.default=function(){return(0,s.Z)(a.Z,{})}}}]);
+//# sourceMappingURL=generic_not_found-b4b27f457f8f2b2be91a.chunk.js.map
